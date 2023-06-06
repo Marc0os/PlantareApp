@@ -9,14 +9,9 @@ import UIKit
 
 class HomeViewController: UIViewController {
     
-    
-    
     let screen = HomeView()
 
     override func viewDidLoad() {
         view = screen
     }
-
-
 }
-
